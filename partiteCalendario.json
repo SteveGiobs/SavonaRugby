@@ -1,0 +1,164 @@
+[
+  {
+    "casa": "ivrea",
+    "trasf": "savona",
+    "sc1": 25,
+    "sc2": null,
+    "data": "2026-10-18",
+    "ora": "15:30",
+    "luogo": "Campo Diego Santi, Ivrea"
+  },
+  {
+    "casa": "savona",
+    "trasf": "biella",
+    "sc1": null,
+    "sc2": null,
+    "data": "2026-10-25",
+    "ora": "14:30",
+    "luogo": "Stadio Fontanassa, Savona"
+  },
+  {
+    "casa": "mauro",
+    "trasf": "savona",
+    "sc1": null,
+    "sc2": null,
+    "data": "2026-11-08",
+    "ora": "14:30",
+    "luogo": "Campo Sportivo Rugby San Mauro, San Mauro Torinese"
+  },
+  {
+    "casa": "savona",
+    "trasf": "milano",
+    "sc1": null,
+    "sc2": null,
+    "data": "2026-11-15",
+    "ora": "14:30",
+    "luogo": "Stadio Fontanassa, Savona"
+  },
+  {
+    "casa": "savona",
+    "trasf": "cernusco",
+    "sc1": null,
+    "sc2": null,
+    "data": "2026-11-29",
+    "ora": "14:30",
+    "luogo": "Stadio Fontanassa, Savona"
+  },
+  {
+    "casa": "parabiago",
+    "trasf": "savona",
+    "sc1": null,
+    "sc2": null,
+    "data": "2026-12-06",
+    "ora": "14:30",
+    "luogo": "Centro Sportivo Comunale Venegoni-Marazzini, Parabiago"
+  },
+  {
+    "casa": "savona",
+    "trasf": "varese",
+    "sc1": null,
+    "sc2": null,
+    "data": "2026-12-13",
+    "ora": "14:30",
+    "luogo": "Stadio Fontanassa, Savona"
+  },
+  {
+    "casa": "rho",
+    "trasf": "savona",
+    "sc1": null,
+    "sc2": null,
+    "data": "2027-01-17",
+    "ora": "14:30",
+    "luogo": "Campo Molinello, Rho"
+  },
+  {
+    "casa": "savona",
+    "trasf": "sondrio",
+    "sc1": null,
+    "sc2": null,
+    "data": "2027-01-24",
+    "ora": "14:30",
+    "luogo": "Stadio Fontanassa, Savona"
+  },
+  {
+    "casa": "savona",
+    "trasf": "ivrea",
+    "sc1": null,
+    "sc2": null,
+    "data": "2027-01-31",
+    "ora": "14:30",
+    "luogo": "Stadio Fontanassa, Savona"
+  },
+  {
+    "casa": "biella",
+    "trasf": "savona",
+    "sc1": null,
+    "sc2": null,
+    "data": "2027-02-21",
+    "ora": "14:30",
+    "luogo": "Cittadella del Rugby, Biella"
+  },
+  {
+    "casa": "savona",
+    "trasf": "mauro",
+    "sc1": null,
+    "sc2": null,
+    "data": "2027-02-28",
+    "ora": "14:30",
+    "luogo": "Stadio Fontanassa, Savona"
+  },
+  {
+    "casa": "milano",
+    "trasf": "savona",
+    "sc1": null,
+    "sc2": null,
+    "data": "2027-03-21",
+    "ora": "14:30",
+    "luogo": "Centro Sportivo Mario Giuriati, Milano"
+  },
+  {
+    "casa": "cernusco",
+    "trasf": "savona",
+    "sc1": null,
+    "sc2": null,
+    "data": "2027-04-04",
+    "ora": "15:30",
+    "luogo": "Polo del Rugby Franco Viterbi, Cernusco sul Naviglio"
+  },
+  {
+    "casa": "savona",
+    "trasf": "parabiago",
+    "sc1": null,
+    "sc2": null,
+    "data": "2027-04-11",
+    "ora": "15:30",
+    "luogo": "Stadio Fontanassa, Savona"
+  },
+  {
+    "casa": "varese",
+    "trasf": "savona",
+    "sc1": null,
+    "sc2": null,
+    "data": "2027-04-18",
+    "ora": "15:30",
+    "luogo": "Centro Sportivo Comunale Aldo Levi, Varese"
+  },
+  {
+    "casa": "savona",
+    "trasf": "rho",
+    "sc1": null,
+    "sc2": null,
+    "data": "2027-05-09",
+    "ora": "15:30",
+    "luogo": "Stadio Fontanassa, Savona"
+  },
+  {
+    "casa": "sondrio",
+    "trasf": "savona",
+    "sc1": null,
+    "sc2": null,
+    "data": "2027-05-16",
+    "ora": "15:30",
+    "luogo": "Stadio Cerri-Mari, Sondrio"
+  }
+]

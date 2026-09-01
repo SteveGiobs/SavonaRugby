@@ -1,0 +1,722 @@
+[
+  {
+    "casa": "ivrea",
+    "trasf": "savona",
+    "sc1": 25,
+    "sc2": null,
+    "pt1": 4,
+    "pt2": 0
+  },
+  {
+    "casa": "biella",
+    "trasf": "cernusco",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "mauro",
+    "trasf": "varese",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "rho",
+    "trasf": "milano",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "parabiago",
+    "trasf": "sondrio",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "sondrio",
+    "trasf": "ivrea",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "savona",
+    "trasf": "biella",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "milano",
+    "trasf": "mauro",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "varese",
+    "trasf": "rho",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "cernusco",
+    "trasf": "parabiago",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "rho",
+    "trasf": "ivrea",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "biella",
+    "trasf": "sondrio",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "mauro",
+    "trasf": "savona",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "milano",
+    "trasf": "cernusco",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "parabiago",
+    "trasf": "varese",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "ivrea",
+    "trasf": "parabiago",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "varese",
+    "trasf": "biella",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "cernusco",
+    "trasf": "mauro",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "sondrio",
+    "trasf": "rho",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "savona",
+    "trasf": "milano",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "biella",
+    "trasf": "ivrea",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "mauro",
+    "trasf": "sondrio",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "parabiago",
+    "trasf": "rho",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "savona",
+    "trasf": "cernusco",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "milano",
+    "trasf": "varese",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "ivrea",
+    "trasf": "mauro",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "rho",
+    "trasf": "biella",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "varese",
+    "trasf": "cernusco",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "parabiago",
+    "trasf": "savona",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "sondrio",
+    "trasf": "milano",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "milano",
+    "trasf": "ivrea",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "biella",
+    "trasf": "parabiago",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "mauro",
+    "trasf": "rho",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "cernusco",
+    "trasf": "sondrio",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "savona",
+    "trasf": "varese",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "ivrea",
+    "trasf": "cernusco",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "biella",
+    "trasf": "milano",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "parabiago",
+    "trasf": "mauro",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "rho",
+    "trasf": "savona",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "sondrio",
+    "trasf": "varese",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "varese",
+    "trasf": "ivrea",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "mauro",
+    "trasf": "biella",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "cernusco",
+    "trasf": "rho",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "milano",
+    "trasf": "parabiago",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "savona",
+    "trasf": "sondrio",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "savona",
+    "trasf": "ivrea",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "cernusco",
+    "trasf": "biella",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "varese",
+    "trasf": "mauro",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "milano",
+    "trasf": "rho",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "sondrio",
+    "trasf": "parabiago",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "ivrea",
+    "trasf": "sondrio",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "biella",
+    "trasf": "savona",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "mauro",
+    "trasf": "milano",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "rho",
+    "trasf": "varese",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "parabiago",
+    "trasf": "cernusco",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "ivrea",
+    "trasf": "rho",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "sondrio",
+    "trasf": "biella",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "savona",
+    "trasf": "mauro",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "cernusco",
+    "trasf": "milano",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "varese",
+    "trasf": "parabiago",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "parabiago",
+    "trasf": "ivrea",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "biella",
+    "trasf": "varese",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "mauro",
+    "trasf": "cernusco",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "rho",
+    "trasf": "sondrio",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "milano",
+    "trasf": "savona",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "ivrea",
+    "trasf": "biella",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "sondrio",
+    "trasf": "mauro",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "rho",
+    "trasf": "parabiago",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "cernusco",
+    "trasf": "savona",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "varese",
+    "trasf": "milano",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "mauro",
+    "trasf": "ivrea",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "biella",
+    "trasf": "rho",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "cernusco",
+    "trasf": "varese",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "savona",
+    "trasf": "parabiago",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "milano",
+    "trasf": "sondrio",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "ivrea",
+    "trasf": "milano",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "parabiago",
+    "trasf": "biella",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "rho",
+    "trasf": "mauro",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "sondrio",
+    "trasf": "cernusco",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "varese",
+    "trasf": "savona",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "cernusco",
+    "trasf": "ivrea",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "milano",
+    "trasf": "biella",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "mauro",
+    "trasf": "parabiago",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "savona",
+    "trasf": "rho",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "varese",
+    "trasf": "sondrio",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "ivrea",
+    "trasf": "varese",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "biella",
+    "trasf": "mauro",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "rho",
+    "trasf": "cernusco",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "parabiago",
+    "trasf": "milano",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  },
+  {
+    "casa": "sondrio",
+    "trasf": "savona",
+    "sc1": null,
+    "sc2": null,
+    "pt1": null,
+    "pt2": null
+  }
+]
