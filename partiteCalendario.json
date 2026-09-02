@@ -2,8 +2,8 @@
   {
     "casa": "ivrea",
     "trasf": "savona",
-    "sc1": 25,
-    "sc2": 25,
+    "sc1": null,
+    "sc2": null,
     "data": "2026-10-18",
     "ora": "15:30",
     "luogo": "Campo Diego Santi, Ivrea"
