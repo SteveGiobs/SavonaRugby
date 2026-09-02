@@ -2,23 +2,23 @@
   {
     "casa": "ivrea",
     "trasf": "savona",
-    "sc1": 25,
+    "sc1": null,
     "sc2": null,
-    "pt1": 5,
-    "pt2": 5
+    "pt1": null,
+    "pt2": null
   },
   {
     "casa": "biella",
     "trasf": "cernusco",
-    "sc1": 10,
+    "sc1": null,
     "sc2": null,
-    "pt1": 4,
-    "pt2": 4
+    "pt1": null,
+    "pt2": null
   },
   {
     "casa": "mauro",
     "trasf": "varese",
-    "sc1": 0,
+    "sc1": null,
     "sc2": null,
     "pt1": null,
     "pt2": null
