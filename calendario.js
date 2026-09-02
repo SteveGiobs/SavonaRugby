@@ -30,7 +30,7 @@ const nomiSquadre = {
 /* ==== GENERAZIONE CARD ==== */
 const container = document.getElementById("matches");
 let nextFound = false;
-fetch('https://SteveGiobs.github.io/SerieB/partiteCalendario.json')
+fetch('https://SteveGiobs.github.io/SavonaRugby/partiteCalendario.json')
   .then(res => res.json())
   .then(partiteCalendario => {
     partiteCalendario.forEach(p => {
